@@ -10,7 +10,7 @@ export class TituloComponent implements OnInit {
   @Input() titulo: string;
 
   constructor() { }
-
+  for
   ngOnInit() {
   }
 
