@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dudu\\OneDrive\\Documents\\3con\\Projetos\\ANGULAR &.NET CORE\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
+    "C:\\Users\\eduar\\OneDrive\\Documents\\3con\\Angular-WebAPI-NET\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dudu\\OneDrive\\Documents\\3con\\Projetos\\ANGULAR &.NET CORE\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
+    "C:\\Users\\eduar\\OneDrive\\Documents\\3con\\Angular-WebAPI-NET\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dudu\\OneDrive\\Documents\\3con\\Projetos\\ANGULAR &.NET CORE\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Documents\\3con\\Angular-WebAPI-NET\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "projectName": "SmartSchool-WebAPI",
-        "projectPath": "C:\\Users\\Dudu\\OneDrive\\Documents\\3con\\Projetos\\ANGULAR &.NET CORE\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Dudu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dudu\\OneDrive\\Documents\\3con\\Projetos\\ANGULAR &.NET CORE\\SmartSchool-WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\OneDrive\\Documents\\3con\\Angular-WebAPI-NET\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\OneDrive\\Documents\\3con\\Angular-WebAPI-NET\\SmartSchool-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dudu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
